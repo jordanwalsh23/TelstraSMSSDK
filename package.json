@@ -1,0 +1,13 @@
+{
+  "name": "telstra-sms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^6.0.0",
+    "mocha": "^3.4.1",
+    "oauth": "^0.9.15",
+    "request": "^2.81.0"
+  }
+}
